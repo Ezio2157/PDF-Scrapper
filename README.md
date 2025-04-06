@@ -58,3 +58,8 @@ PyMuPDF
 - Para PDFs escaneados, se recomienda utilizar OCR (por ejemplo, combinando `pdf2image` y `pytesseract`).
 - La detección de tablas depende de la estructura del PDF.
 - Si tienes sugerencias o encuentras algún problema, no dudes en abrir un issue en el repositorio.
+
+## Licencia
+
+Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
